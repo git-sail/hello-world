@@ -12,6 +12,11 @@ NEw line for branch
 >>>>>>> mynewbranch
 =======
 New line to disable merge
+<<<<<<< HEAD
 >>>>>>> mynewbranch
 
 new line
+=======
+
+new line for merge tool
+>>>>>>> mynewbranch
