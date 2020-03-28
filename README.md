@@ -13,3 +13,5 @@ NEw line for branch
 =======
 New line to disable merge
 >>>>>>> mynewbranch
+
+new line
